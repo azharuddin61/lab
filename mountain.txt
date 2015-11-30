@@ -1,0 +1,11 @@
+<html>
+<body>
+<img  src="C:\Users\ADMIN\Desktop\s\landscape\1.jpg"  width="200" height="200" align="left">
+
+<img  src="C:\Users\ADMIN\Desktop\s\landscape\2.jpg"  width="200" height="200" align="center">
+
+<img  src="C:\Users\ADMIN\Desktop\s\landscape\3.jpg"  width="200" height="200" align="center">
+
+<img  src="C:\Users\ADMIN\Desktop\s\landscape\4.jpg"  width="200" height="200" align="center">
+</body>
+</html>
